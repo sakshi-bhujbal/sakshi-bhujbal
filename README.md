@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshi-bhujbal
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in any IT related job where I can Learn and Explore new technologies
 - 🌱 I’m currently pursuing Master's in Computer Science
 - ⚡ Fun fact: People are scary so is coding🤭
 
